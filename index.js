@@ -13,5 +13,6 @@ import Page from './components/page';
 import Footer from './components/footer';
 import backgroundImage from './screens/backgroundImage';
 import SplashScreen from './screens/splashscreen';
+import FriJul from './FriJul';
 
-AppRegistry.registerComponent(appName, () => App); //component nào chạy đầu tiên
+AppRegistry.registerComponent(appName, () => FriJul); //component nào chạy đầu tiên
