@@ -14,7 +14,7 @@ const FriJul = () => {
             <Button title="useState" onPress={handleIncrement} />
             <Text style={{ textAlign: 'center' }}>Giá trị hiện tại: {count}</Text>
             <Button title="useRef" onPress={handlesueRef} />
-            <Text style={{ textAlign: 'center' }}> Giá trị hiện tại: {counterRef.current}</Text>
+            <Text style={{ textAlign: 'center' }}> Ghbasdabjdaiá trị hiện tại: {counterRef.current}</Text>
         </View>
     );
 
